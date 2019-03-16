@@ -72,10 +72,6 @@ set shiftwidth=4
 set shiftround
 set expandtab
 
-" Use pathogen to manage vim plugins
-call pathogen#infect()
-call pathogen#helptags()
-
 " Setting for powerline
 set laststatus=2
 
