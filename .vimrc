@@ -34,7 +34,7 @@ vnoremap < <gv
 vnoremap > >gv
 
 " Color schema
-color wombat256
+color wombat256mod
 
 " Enable syntax highlighting
 filetype off
